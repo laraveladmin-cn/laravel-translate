@@ -1,5 +1,5 @@
 {
-    "name": "laraveladmin-cn/translate",
+    "name": "laraveladmin/translate",
     "description": "一个集成百度翻译，有道翻译，Google翻译的php composer包",
     "type": "library",
     "require": {
